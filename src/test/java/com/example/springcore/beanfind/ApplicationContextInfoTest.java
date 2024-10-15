@@ -1,6 +1,6 @@
 package com.example.springcore.beanfind;
 
-import com.example.springcore.config.AppConfig;
+import com.example.springcore.AppConfig;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.config.BeanDefinition;

@@ -1,4 +1,4 @@
-package com.example.springcore.config;
+package com.example.springcore;
 
 import com.example.springcore.member.MemberRepository;
 import com.example.springcore.member.MemberService;

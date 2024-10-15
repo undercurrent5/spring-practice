@@ -1,6 +1,6 @@
 package com.example.springcore.beanfind;
 
-import com.example.springcore.config.AppConfig;
+import com.example.springcore.AppConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class ApplicationContextExtendsFindTest {

@@ -1,6 +1,6 @@
 package com.example.springcore.beanfind;
 
-import com.example.springcore.config.AppConfig;
+import com.example.springcore.AppConfig;
 import com.example.springcore.member.MemberService;
 import com.example.springcore.member.MemberServiceImpl;
 import org.junit.jupiter.api.Assertions;

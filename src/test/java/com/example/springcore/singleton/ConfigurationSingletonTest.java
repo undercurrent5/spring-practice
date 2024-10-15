@@ -1,6 +1,6 @@
 package com.example.springcore.singleton;
 
-import com.example.springcore.config.AppConfig;
+import com.example.springcore.AppConfig;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
